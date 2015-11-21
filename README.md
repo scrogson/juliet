@@ -1,6 +1,6 @@
 # Juliet
 
-> A XMPP Server in Elixir
+> An XMPP Server in Elixir
 
 ## Installation
 
