@@ -17,3 +17,7 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
         def application do
           [applications: [:juliet]]
         end
+
+## LICENSE
+
+See [LICENSE](https://raw.githubusercontent.com/scrogson/juliet/master/LICENSE)
