@@ -1,0 +1,6 @@
+%{"connection": {:hex, :connection, "1.0.4", "a1cae72211f0eef17705aaededacac3eb30e6625b04a6117c1b2db6ace7d5976", [:mix], []},
+  "fast_xml": {:hex, :fast_xml, "1.1.15", "6d23eb7f874e1357cf80a48d75a7bd0c8f6318029dc4b70122e9f54911f57f83", [:rebar3], [{:p1_utils, "1.0.5", [hex: :p1_utils, optional: false]}]},
+  "p1_utils": {:hex, :p1_utils, "1.0.5", "3e698354fdc1fea5491d991457b0cb986c0a00a47d224feb841dc3ec82b9f721", [:rebar3], []},
+  "ranch": {:hex, :ranch, "1.2.0", "b286a948a0706a700a9f577e5cecbb2dc66097ea79f3ddb20ba5536069bdb7aa", [:make], []},
+  "romeo": {:hex, :romeo, "0.6.0", "a37de89b26e2db040c9650090cc3d1460fd0e93a918634a91aa70897c83f71a9", [:mix], [{:connection, "~> 1.0", [hex: :connection, optional: false]}, {:fast_xml, "~> 1.1", [hex: :fast_xml, optional: false]}]},
+  "uuid": {:hex, :uuid, "1.1.4", "36c7734e4c8e357f2f67ba57fb61799d60c20a7f817b104896cca64b857e3686", [:mix], []}}
